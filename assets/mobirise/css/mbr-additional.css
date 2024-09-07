@@ -1422,6 +1422,7 @@ a {
   font-size: 22px;
   text-decoration: none;
   white-space: nowrap;
+  margin-left: 50px;
 }
 @keyframes shine {
   0% {
